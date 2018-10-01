@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">flaxgt_individual_project_1</string>
+    <string name="author">By: Griffin Flaxman</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="first_name_hint">first name</string>
+    <string name="family_name_hint">family name</string>
+    <string name="email_hint">example@example.com</string>
+    <string name="password_hint">password</string>
+    <string name="confirm_password_hint">confirm password</string>
+    <string name="confirm_btn_text">Confirm</string>
+    <string name="dob_hint">date of birth</string>
+    <string name="first_name_tv_text">First Name</string>
+    <string name="family_name_tv_text">Family Name</string>
+    <string name="dob_tv_text">Date Of Birth</string>
+    <string name="email_tv_text">Email</string>
+    <string name="password_tv_text">Password</string>
+    <string name="confirm_password_tv_text">Confirm Password</string>
+    <string name="title">Login Application</string>
+    <string name="username_tv_text">Username</string>
+</resources>
